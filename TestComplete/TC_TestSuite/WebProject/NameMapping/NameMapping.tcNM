@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{E548CB8E-7BDC-473D-88C6-F993020B0894}">
+				<TypeInfo Item0="{F935767F-14E9-4D82-8D4B-7E71719BEF23}" />
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{2FE952F4-D427-449D-A677-0D82DBC51C6E}">
+						<TypeInfo Item0="{CBD46638-A184-435D-B3FF-CD2981549ACB}" />
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageSignin" Key="{24F11BA0-6A87-4F70-B6D5-5DBC14CE3DE2}">
+								<Image FileName="1915285507" Left="8" Top="79" Right="1928" Bottom="1048" />
+								<TypeInfo Item0="{8A548DF4-9A8B-4F25-9FB4-2B10AAB0AAD8}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.amazon.com/ap/signin*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formSignin" Key="{9A0C53EA-4B9B-4BFB-AC67-6F63AFB97910}">
+										<Image FileName="1915285507" Left="793" Top="142" Right="1143" Bottom="423" />
+										<TypeInfo Item0="{1B48A2FD-6E42-4194-BF07-530FD559AEE4}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//form[@name=&apos;signIn&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(., &apos;Sign-In&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@action, &apos;signin&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//form[contains(@class, &apos;auth-validate-form&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;authportal-main-section&apos;]//form" />
+											</Selector>
+											<Selector>
+												<Value Value="//form" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkNeedHelp" Key="{4F97A54B-AA2A-468D-88C2-31776C45CA3E}">
+										<Image FileName="1915285507" Left="820" Top="383" Right="897" Bottom="402" />
+										<TypeInfo Item0="{C58AD37B-C43E-4744-8ACD-722F08CD58B1}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//a[contains(., &apos;Need help?&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@class, &apos;a-expander-header&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;authportal-main-section&apos;]//form//div[3]//a" />
+											</Selector>
+											<Selector>
+												<Value Value="//form//div[3]//a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeNeedHelp" Key="{C50B3504-55E8-4A89-9735-379DCDF7540D}">
+										<Image FileName="1915285507" Left="831" Top="384" Right="897" Bottom="401" />
+										<TypeInfo Item0="{1B48A2FD-6E42-4194-BF07-530FD559AEE4}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[contains(text(), &apos;Need help?&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//span[contains(@class, &apos;a-expander-prompt&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;authportal-main-section&apos;]//a/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//a/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="emailinputEmailOrMobilePhoneNumb" Key="{C43D0272-7674-4FFD-B2C8-F6DD5F9AB5A9}">
+										<Image FileName="562585036" Left="812" Top="223" Right="1108" Bottom="254" />
+										<TypeInfo Item0="{60B8FECC-B60D-48AF-AB83-6BDC2351B0A8}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//input[@id=(//label[contains(.,&apos;Email or mobile phone number&apos;)]/@for)]" />
+											</Selector>
+											<Selector>
+												<Value Value="#ap_email" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/div/div/div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{48A768E0-941B-4EEF-AA65-D52C8681EB83}">
+								<Image FileName="126988312" Left="-8" Top="-8" Right="1928" Bottom="1048" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageAmazonComSpendLessSmileMore" Key="{88A8C138-CE9C-49BD-877F-5BADAAC4AA4B}">
+								<Image FileName="126988312" Left="0" Top="71" Right="1920" Bottom="1040" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.amazon.com/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerNavbarMain" Key="{0654DC18-F518-45DB-AA04-4DF5FBF6E1F5}">
+										<Image FileName="126988312" Left="0" Top="71" Right="1903" Bottom="170" />
+										<Selectors>
+											<Selector>
+												<Value Value="#navbar-main" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(., &apos;Deliver to&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header[contains(@class, &apos;nav-opt-sprite&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//header" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelHelloSignIn" Key="{BDAEE7CC-13C0-4A9D-860D-DA7D9383D262}">
+										<Image FileName="-1166953779" Left="1585" Top="86" Right="1705" Bottom="100" />
+										<TypeInfo Item0="{60B8FECC-B60D-48AF-AB83-6BDC2351B0A8}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[.=&apos;Hello, Sign in&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;nav-line-1-container&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;signin&apos;)]/div" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[2]/div" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{2FE952F4-D427-449D-A677-0D82DBC51C6E}">
+			<Child Name="pageSignin" Owner="{24F11BA0-6A87-4F70-B6D5-5DBC14CE3DE2}">
+				<Child Name="formSignin" Owner="{9A0C53EA-4B9B-4BFB-AC67-6F63AFB97910}">
+					<Child Name="linkNeedHelp" Owner="{4F97A54B-AA2A-468D-88C2-31776C45CA3E}">
+						<Child Name="textnodeNeedHelp" Owner="{C50B3504-55E8-4A89-9735-379DCDF7540D}" />
+					</Child>
+					<Child Name="emailinputEmailOrMobilePhoneNumb" Owner="{C43D0272-7674-4FFD-B2C8-F6DD5F9AB5A9}" />
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow" Owner="{48A768E0-941B-4EEF-AA65-D52C8681EB83}" />
+			<Child Name="pageAmazonComSpendLessSmileMore" Owner="{88A8C138-CE9C-49BD-877F-5BADAAC4AA4B}">
+				<Child Name="headerNavbarMain" Owner="{0654DC18-F518-45DB-AA04-4DF5FBF6E1F5}">
+					<Child Name="panelHelloSignIn" Owner="{BDAEE7CC-13C0-4A9D-860D-DA7D9383D262}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

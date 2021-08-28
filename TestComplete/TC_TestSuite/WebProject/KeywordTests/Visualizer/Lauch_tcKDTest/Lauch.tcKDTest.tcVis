@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{0E5432D6-46F1-4927-AA94-F76F5268DA70}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44436.1827893518" objectName="Aliases[&quot;browser&quot;][&quot;pageAmazonComSpendLessSmileMore&quot;][&quot;headerNavbarMain&quot;][&quot;panelHelloSignIn&quot;]" objectLeft="1585" objectTop="86" objectRight="1705" objectBottom="100" clickPointX="1705" clickPointY="95" imageFileName="tcvi664407852322.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44436.1828240741" objectName="Aliases[&quot;browser&quot;][&quot;pageSignin&quot;][&quot;formSignin&quot;][&quot;emailinputEmailOrMobilePhoneNumb&quot;]" objectLeft="812" objectTop="223" objectRight="1108" objectBottom="254" clickPointX="914" clickPointY="243" imageFileName="tcvi664792152324.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="44436.1828587963" objectName="Aliases[&quot;browser&quot;][&quot;pageSignin&quot;][&quot;formSignin&quot;][&quot;emailinputEmailOrMobilePhoneNumb&quot;]" objectLeft="812" objectTop="223" objectRight="1108" objectBottom="254" clickPointX="-1" clickPointY="-1" imageFileName="tcvi665015652326.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

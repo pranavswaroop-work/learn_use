@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
-	<children />
+	<children>
+		<child name="Lauch" key="{0E5432D6-46F1-4927-AA94-F76F5268DA70}" path="Lauch.tcKDTest" />
+	</children>
 </Root>
