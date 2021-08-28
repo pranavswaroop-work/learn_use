@@ -29,24 +29,27 @@ mode="Desktop">
 		</var>
 	</variables>
 	<recorditems>
-		<runapprecorditem
+		<openwebsiterecorditem
+		args=""
+		browser="EdgeChromium"
+		clearcache="False"
+		clearcodecache="False"
+		clearcookies="False"
+		clearserviceworker="False"
 		enabled="True"
-		maximized="False"
+		incognito="False"
+		instrument="True"
+		killexisting="False"
+		maximized="True"
 		optional="False">
 			<comment>
 			</comment>
 			<bindings>
-				<binding
-				target="ReturnVariable"
-				variable="StartAutProcessIDVar">
-				</binding>
 			</bindings>
-			<filename>
-				C:\Users\huser\Downloads\usf.exe
-			</filename>
-			<args>
-			</args>
-		</runapprecorditem>
+			<url>
+				www.google.com
+			</url>
+		</openwebsiterecorditem>
 	</recorditems>
 	<repository
 	id="f283c5c5-8f94-4e8a-8351-d50a286161ea"

@@ -92,8 +92,8 @@ namespace WindowsApp
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Application", "Run application 'C:\\Users\\huser\\Downloads\\usf.exe' in normal mode. Return value bound to $StartAutProcessIDVar.", new RecordItemIndex(0));
-            StartAutProcessIDVar = ValueConverter.ToString(Host.Local.RunApplication("C:\\Users\\huser\\Downloads\\usf.exe", "", "", false));
+            Report.Log(ReportLevel.Info, "Website", "Opening web site 'www.google.com' with browser 'EdgeChromium' in maximized mode.", new RecordItemIndex(0));
+            Host.Current.OpenBrowser("www.google.com", "EdgeChromium", "", false, true, false, false, false, false, false, true);
             Delay.Milliseconds(0);
             
         }
