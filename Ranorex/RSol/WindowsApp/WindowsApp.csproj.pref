@@ -1,14 +1,17 @@
 ﻿<Properties>
   <Array name="active">
-    <Element value="WindowsApp.rxtst" />
+    <Element value="StartAUT.rxrec" />
   </Array>
   <Array name="bookmarks" />
   <Array name="files">
     <Element value="WindowsApp.rxtst" />
+    <Element value="StartAUT.rxrec" />
+    <Element value="Recording1.rxrec" />
   </Array>
   <Properties name="projectSavedData">
     <Properties name="customTool">
       <runOnBuild value="False" />
     </Properties>
+    <Array name="recentusercodeselections" />
   </Properties>
 </Properties>

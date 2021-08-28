@@ -25,6 +25,18 @@ mode="Desktop">
 	<variables>
 	</variables>
 	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message=""
+		optional="False"
+		reportlevel="Success;110"
+		searchpropertyid="741a0980-3a8f-4469-b0a2-1facf719c766">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="f283c5c5-8f94-4e8a-8351-d50a286161ea"

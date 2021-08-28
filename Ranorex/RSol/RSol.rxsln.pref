@@ -11,6 +11,6 @@
       <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
     </ArrayOfString>
   </SerializedValue>
-  <ProjectBrowserState value="[Solution RSol[WindowsApp[]]]&#xD;&#xA;Solution RSol\WindowsApp\WindowsApp.rxtst&#xD;&#xA;Solution RSol" />
+  <ProjectBrowserState value="[Solution RSol[WindowsApp[]]]&#xD;&#xA;Solution RSol&#xD;&#xA;Solution RSol" />
   <StartupProject value="{BFCA750C-0484-4F5A-8244-00309BD4DEDC}" />
 </Properties>

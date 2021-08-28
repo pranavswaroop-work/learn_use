@@ -79,6 +79,8 @@ namespace WindowsApp
 
             Init();
 
+            Report.Log(ReportLevel.Success, "User", "", new RecordItemIndex(0));
+            
         }
 
 #region Image Feature Data
