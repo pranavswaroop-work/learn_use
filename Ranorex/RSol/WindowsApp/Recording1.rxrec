@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="382fafe4-1e62-43e6-9b9c-b86c034c9615"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="WindowsApp">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="f283c5c5-8f94-4e8a-8351-d50a286161ea"
+	name="WindowsAppRepository"
+	relativepath="WindowsAppRepository.rxrep">
+		<codegen
+		classname="WindowsAppRepository"
+		namespace="WindowsApp">
+		</codegen>
+		<rootfolder
+		id="3631cd05-2756-4ffd-b625-cbd4e1085288"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

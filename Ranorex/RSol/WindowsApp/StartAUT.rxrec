@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="3167d590-fe61-4dc1-a8f0-a166cf5e0995"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="WindowsApp">
+	</codegen>
+	<variables>
+		<var
+		id="9cc2ece9-2c75-47c5-ab36-b0e204158b60"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Users\huser\Downloads\usf.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="f283c5c5-8f94-4e8a-8351-d50a286161ea"
+	name="WindowsAppRepository"
+	relativepath="WindowsAppRepository.rxrep">
+		<codegen
+		classname="WindowsAppRepository"
+		namespace="WindowsApp">
+		</codegen>
+		<rootfolder
+		id="3631cd05-2756-4ffd-b625-cbd4e1085288"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

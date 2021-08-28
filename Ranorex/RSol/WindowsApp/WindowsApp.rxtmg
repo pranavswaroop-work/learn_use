@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="WindowsApp"
+      id="87ea33a5-bbd3-478c-89a9-c1eda140a162"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="WindowsApp"
+      id="87ea33a5-bbd3-478c-89a9-c1eda140a162"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
