@@ -1,1 +1,8 @@
-﻿
+﻿function hi()
+{
+
+ x = "kullu";
+
+Log["Message"](x);
+
+}

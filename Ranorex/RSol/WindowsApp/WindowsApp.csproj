@@ -164,6 +164,9 @@
       <UserCode>true</UserCode>
       <id>e6fc9d34-902c-4f09-8fb8-1e03c2915fe4</id>
     </Compile>
+    <Compile Include="UserCodeModule1.cs">
+      <id>212caf75-7f10-4301-9805-14264a39a249</id>
+    </Compile>
     <Compile Include="WindowsAppRepository.cs">
       <BoundTo>369dcf8e-65ae-434b-b07f-052d620fad3f</BoundTo>
       <DependentUpon>WindowsAppRepository.rxrep</DependentUpon>

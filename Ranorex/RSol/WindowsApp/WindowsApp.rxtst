@@ -42,28 +42,10 @@
 			singlereportpdfdirectory="SingleReportPDF">
 			</testsuite>
 			<testmodule
-			id="a97c608c-fc56-4701-a694-0ce70221bf98"
+			id="e0d96f13-d056-493b-81af-be46eb734dcf"
 			name="Recording1"
 			ref="382fafe4-1e62-43e6-9b9c-b86c034c9615"
 			type="Recording">
-			</testmodule>
-			<setup
-			id="cc3b2cb8-5796-48f5-bb45-110fc941a1a2"
-			name="setup">
-			</setup>
-			<testmodule
-			id="ee721695-4e46-4e42-bfe9-08127e4a9744"
-			name="StartAUT"
-			ref="3167d590-fe61-4dc1-a8f0-a166cf5e0995"
-			type="Recording">
-				<databinding>
-					<var
-					dataname="AppProcessID"
-					datasourceid="08589adb-f431-44e7-bafb-8c38bf4f7e01"
-					variableid="9cc2ece9-2c75-47c5-ab36-b0e204158b60"
-					variablename="StartAutProcessIDVar">
-					</var>
-				</databinding>
 			</testmodule>
 		</flatlistofchildren>
 		<childhierarchy>
@@ -76,16 +58,8 @@
 					<testcase
 					id="3ccc7e3c-f0ac-40b9-bfca-f355f30c4cad"
 					name="TestCase">
-						<setup
-						id="cc3b2cb8-5796-48f5-bb45-110fc941a1a2"
-						name="setup">
-							<testmodule
-							id="ee721695-4e46-4e42-bfe9-08127e4a9744"
-							name="StartAUT">
-							</testmodule>
-						</setup>
 						<testmodule
-						id="a97c608c-fc56-4701-a694-0ce70221bf98"
+						id="e0d96f13-d056-493b-81af-be46eb734dcf"
 						name="Recording1">
 						</testmodule>
 					</testcase>

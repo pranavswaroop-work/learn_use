@@ -31,6 +31,19 @@ namespace WindowsApp
         private void Init()
         {
             // Your recording specific initialization code goes here.
+            
+            
+            
+            int x = 1;
+				bool y = true;
+				
+				do {
+				
+					x = x + 1;
+					Report.Log(ReportLevel.Success, x.ToString() );
+					System.Console.WriteLine(x);
+				}while (x != 20);
+
         }
 
     }
