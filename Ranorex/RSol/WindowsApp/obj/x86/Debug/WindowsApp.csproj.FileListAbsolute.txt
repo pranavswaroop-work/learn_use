@@ -1,0 +1,10 @@
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\bin\Debug\WindowsApp.rxtmg
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\bin\Debug\WindowsApp.rxtst
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\bin\Debug\WindowsApp.xml
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\obj\x86\Debug\WindowsApp.csprojResolveAssemblyReference.cache
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\obj\x86\Debug\WindowsApp.exe
+C:\Users\huser\Documents\GitHub\learn_use\Ranorex\RSol\WindowsApp\obj\x86\Debug\WindowsApp.pdb
