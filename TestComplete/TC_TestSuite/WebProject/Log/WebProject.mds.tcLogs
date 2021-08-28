@@ -23,30 +23,12 @@
 		<Node name="logs">
 			<Node name="log idx=0000">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="44436.4117009606"/>
+				<Prp name="datetime" type="D" value="44436.4711476852"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{F355574C-6802-44D6-9EFD-509D89B7E3C1}"/>
+				<Prp name="key" type="S" value="{89DCE7DC-7F2C-45EF-84CA-49D4F5F3893F}"/>
 				<Prp name="nameofroot" type="S" value="Keyword Test Log [Lauch]"/>
-				<Prp name="relpath" type="S" value="8_28_2021_9_52 AM_50_963\Description.tcLog"/>
-				<Prp name="status" type="I" value="1"/>
-			</Node>
-			<Node name="log idx=0001">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="44436.4133347338"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{878BF324-3F53-4CFA-BBEA-C964F4078774}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [Lauch]"/>
-				<Prp name="relpath" type="S" value="8_28_2021_9_55 AM_12_121\Description.tcLog"/>
+				<Prp name="relpath" type="S" value="8_28_2021_11_18 AM_27_160\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
-			</Node>
-			<Node name="log idx=0002">
-				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="44436.4312163426"/>
-				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{FA81C573-6575-4C85-B2A9-459CA542A17C}"/>
-				<Prp name="nameofroot" type="S" value="WebProject"/>
-				<Prp name="relpath" type="S" value="8_28_2021_10_20 AM_57_92\Description.tcLog"/>
-				<Prp name="status" type="I" value="2"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
