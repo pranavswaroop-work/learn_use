@@ -4,3 +4,5 @@
 /RanorexSol/WebTest/bin
 *.lnk
 *.bak
+*.cache
+RanorexSol/WebTest/obj/x86/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
