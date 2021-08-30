@@ -1,0 +1,69 @@
+﻿<repository
+id="40ca5c95-13fa-4da8-9b1d-6d0dc0c236ff"
+name="WebTestRepository">
+	<codegen
+	classname="WebTestRepository"
+	namespace="WebTest">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="fff7f986-e986-49a6-becd-c8fb298d5cb9"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="ffc3efaf-bcce-4e3e-9904-c7d20a660efc"
+		isrooted="True"
+		name="ApplicationUnderTest"
+		refimgid="1f1a63de-8e04-447e-9ba2-3418e3884462"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			capname="atag"
+			id="3e692ca5-828d-44a0-b9e4-b135470ee939"
+			name="Item"
+			robustPath=""
+			searchtimeout="30000ms">
+				/dom[@domain='demo.opencart.com']//a[@innertext=$item]
+			</item>
+			<item
+			capname="spantag"
+			id="53c69858-7e92-4933-9dff-5843f7d67e6a"
+			name="priceofitem"
+			robustPath=""
+			searchtimeout="30000ms">
+				/dom[@domain='demo.opencart.com']//a[@innertext=$item]/parent::h4/following-sibling::p[2]/span
+			</item>
+			<basepath>
+				/dom[@domain='demo.opencart.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+		<var
+		id="e522d23c-9158-4e6e-bae6-bada2d302abd"
+		name="item">
+			MacBook
+		</var>
+	</variables>
+</repository>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="4b6cc7b0-4a1c-4806-8bbc-6c15f373be4d"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="WebTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="8e92220f-4744-4cc4-8bee-8cd9d7ef12ec">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="ffc3efaf-bcce-4e3e-9904-c7d20a660efc"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='msedge']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="40ca5c95-13fa-4da8-9b1d-6d0dc0c236ff"
+	name="WebTestRepository"
+	relativepath="WebTestRepository.rxrep">
+		<codegen
+		classname="WebTestRepository"
+		namespace="WebTest">
+		</codegen>
+		<rootfolder
+		id="fff7f986-e986-49a6-becd-c8fb298d5cb9"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
